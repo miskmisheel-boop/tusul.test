@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+=======
+backend/node_modules/
+backend/*.log
+backend/.env
+backend/.env.local
+backend/.env.production
+backend/data/app-db.json
+backend/server-test*.log
+sample-cv.txt
+>>>>>>> da88f8b36b80ae80a6fe301e5f855a63aa8ecaa0
